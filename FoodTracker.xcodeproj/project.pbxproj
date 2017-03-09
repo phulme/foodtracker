@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					DAF0F36D1E6E6E8D00169FD7 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = CD6WXZ9U22;
 						ProvisioningStyle = Automatic;
 					};
 					DAF0F3811E6E6E8E00169FD7 = {
@@ -339,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CD6WXZ9U22;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = threehillslane.com.FoodTracker;
@@ -351,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CD6WXZ9U22;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = threehillslane.com.FoodTracker;
